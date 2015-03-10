@@ -39,10 +39,24 @@ En el largo plazo debe nivelarse.
 
 ### Legalidad
 
-
 Pero el problema es que no hay figura legal para esto: no puede ser cooperativa por el animo de lucro, y no puede ser SA porque no se podra impedir que alguien acapare todas las acciones.
 
 Se tendra que investigar si hay forma de simular y hacer exigibles las dos condiciones.
+
+## Colaborar
+
+Se puede colaborar
+
+* difundiendo
+* proponiendo proyectos y participando en los del interés de cada uno
+* financiando: comprando acciones de los proyectos en los que uno participa
+* avisandome de lugares donde presentar este proyecto
+
+## Patrocinadores
+  
+Puede darse el remoto caso de que una empresa o algún particular adinerado quiera financiar algún proyecto. 
+
+En este caso, se actuaría del siguiente modo: se ofrecería publicidad o link que lo identifique como patrocinador ("este proyecto esta financiado por X"). No lo trataría una **donación** sino que lo consideraría como un préstamo que puede ser exigible cada un año (imagino que se podría utilizar un pagaré). Cuando el proyecto camine sólo se devolverá el dinero y se removerá la publicidad, dejando un agradecimiento en la sección de Patrocinadores.
 
 ## Referencias
 
@@ -50,7 +64,7 @@ Se tendra que investigar si hay forma de simular y hacer exigibles las dos condi
 
 Luego de tener durante años esta idea, la elaboracion de las dos condiciones fueron consecuencia de la imposibilidad de comprar acciones donde trabajo. 
 
-Mas tarde lei el Manifiesto Telecomunista, que tiene una idea muy parecida, aunque con el mismo objetivo.
+Mas tarde leí el [Manifiesto Telecomunista](http://endefensadelsl.org/manifiesto_telecomunista.html), que tiene una idea muy parecida, aunque con el mismo objetivo.
 
 Y ahora pienso que es un proyecto dual, como el Proyecto GNU, por un lado se necesita la parte legal (la licencia) y por el otro cada emprendimiento (el software libre).
 
