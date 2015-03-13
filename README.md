@@ -65,6 +65,19 @@ En este caso, se actuaría del siguiente modo: se ofrecería publicidad o link q
 - [Diaspora*](https://joindiaspora.com/u/kosciuk)
 - [GNUSocial](https://lamatriz.org/kosciuk)
 
+# Apendice
+
+## Organización y Propiedad
+
+Creo que la forma de organización y la distribución de la propiedad es lo importante, por eso un ejemplo con una idea similar puede ayudar a una comprensión *en general*.  
+ 
+El tema de la vivienda. Mientras quienes proponen soluciones al problema de la vivienda quieren entregarlas en propiedad, mi idea es otra: una cooperativa que compre y **alquile** viviendas a los socios, y luego de determinada cantidad de años de alquiler, ya se entregue en usufructo. 
+
+Dudo mucho que la cuota de un crédito hipotecario sea igual a un alquiler. Con el paso del tiempo, los inmuebles vuelven a la cooperativa y se ponen en alquiler nuevamente.
+
+Con la idea de entregar viviendas en propiedad, siempre va a existir escasez en el futuro, ya que se heredan o se usurpan, permitiendo la especulación inmobiliaria. Una simple estadística de la cantidad de inmuebles per cápita desde el 1900 podría servir para comprobar si mi suposición es correcta.
+
+
 ## Referencias
 
 (ideas aisladas que pueden formar parte del texto principal)
