@@ -58,6 +58,10 @@ Puede darse el remoto caso de que una empresa o algún particular adinerado quie
 
 En este caso, se actuaría del siguiente modo: se ofrecería publicidad o link que lo identifique como patrocinador ("este proyecto esta financiado por X"). No lo trataría una **donación** sino que lo consideraría como un préstamo que puede ser exigible cada un año (imagino que se podría utilizar un pagaré). Cuando el proyecto camine sólo se devolverá el dinero y se removerá la publicidad, dejando un agradecimiento en la sección de Patrocinadores.
 
+## Ejemplos
+
+* [Cooperativa Agricola](README.md)
+
 ## Contacto
 
 - Correo electrónico: [info#linkedcode.com](mailto:info[arroba]linkedcode.com)
