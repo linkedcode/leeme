@@ -8,6 +8,10 @@ Los trabajadores tendrán su sueldo y los productos se venderán a socios y no s
 
 Para conseguir tierras baratas es necesario comprar en cantidad, se podrá permitir inversores externos que aporten para comprar hectareas sin obligarlos a participar de la cooperativa. Se compra, se lotea y cada uno ira por su lado.
 
+## Producción
+
+Empezaríamos con árboles frutales, de los que ya tengo plantines creciendo en casa (y además vendo para financiar y buscar socios para el concepto de cooperativa abierta. El resto se irá viendo según las habilidades de los socios.
+
 ## Actividades extras
 
 Teniendo tierras de sobra se podrá utilizar para otras actividades:
