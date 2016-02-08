@@ -31,7 +31,7 @@ Al inicio de cada mes, se harán los cálculos de cuanto corresponde a cada soci
 ## Objetivos
 
 * Transparencia: todos los precios deben ser públicos, de compra, venta e incluso sueldos.
-
+* Colaboración con otras cooperativas: se pueden hacer acuerdo para compras con productoras cooperativas.
 
 
 
