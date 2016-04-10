@@ -12,6 +12,35 @@ Para empezar, como en toda cooperativa, se necesitarán los socios que paguen la
 
 Luego de una cantidad de años a determinar, la propiedad se le entrega en usufructo. Y ya deja de pagar alquiler, quiza pueda seguir pagando cuota (a decidir).
 
+## Financiamiento
+
+### Cuotas
+
+#### Monto de la cuota
+
+La propuesta es que el monto de la cuota sea un porcentaje del inmueble a alquilar: el 10% del valor del alquiler.
+
+Las cuotas aportadas y sus importes, servirán para fijar la prioridad, quien más dinero haya aportado será el primero en obtener su vivienda.
+
+Los aportes de cuotas también suman para acceder al usufructo. Ej: si alguien pago cuotas por 10000 pesos y el precio del alquiler mensual es de 2000, tendrá a favor 5 meses que se descontarán de la cantidad de meses necesarios para acceder al usufructo.
+
+#### Refuerzos de cuota
+
+Cualquier socio, en cualquier momento podrá realizar un aporte extraordinario, para asegurarse una propiedad. Ej:, si la cooperativa tiene ahorrados 300.000 pesos y alguien aporta 100.000 de una sola vez, tendrá prioridad (si es que ninguno de los otros socios tiene acumulados mas de 100.000).
+
+Por qué puede pasar que alguien con su primer cuota se quede con una vivienda antes que alguien que pago cuotas durante más tiempo? Por el simple hecho de que la persona que paga alquiler, paga mucho más que quien paga cuota, y al principio, si no se acumula suficiente capital, los plazos se van a alargar demasiado.
+
+### Estado
+
+Se puede solicitar al Estado, 2 cosas:
+
+* Que aporte dinero a este proyecto en lugar de los planes actuales que tenga
+* Que los inmuebles que quedan vacantes sean cedidos a esta cooperativa, en lugar de permitir que se ocupen por cualquiera, y que además, se le entregue en propiedad luego de algunos años
+
+### Empresas
+
+Llamar a la reflexión a las empresas que destinan recursos a proyectos como Un techo para mi país.
+
 ## Ventajas
 
 * El precio del alquiler debería ser notablemente menor al alquiler de mercado en el largo plazo. Al empezar tendría que ser ligeramente inferior para poder seguir comprando propiedades.
@@ -23,13 +52,6 @@ Luego de una cantidad de años a determinar, la propiedad se le entrega en usufr
 
 * Hay que decidir si los aportes son personales o familiares, quizá pueda haber distintos tipos de cuotas. El dilema está en que si fallece el titular del usufructo el inmueble debería volver a la cooperativa. Un solución seria que los aportes sean personales, lo que es una ventaja en un posible caso de divorcio.
 
-## Otras propuestas
-
-Empezar desde cero es un proceso lento, todos quieren mudarse ya por eso aceptan endeudarse 30 años. Pero puede acelerarse con:
-
-* aporte estatal
-* modificacion de la ley de herencia, los inmuebles sin herederos deben ser ingresados a la cooperativa en lugar de dejarlos libres para la usurpación.
-
 ## Pendiente
 
 * Rearmar la calculadora de cuotas.
@@ -37,4 +59,5 @@ Empezar desde cero es un proceso lento, todos quieren mudarse ya por eso aceptan
 
 ## Contacto
 
-* [Facebook](https://www.facebook.com/cooperativa.de.inquilinos/)
+* Página en [Facebook](https://www.facebook.com/cooperativa.de.inquilinos/)
+* ¿Preguntas? Podés hacerlas en el [foro](http://enforos.net/viewtopic.php?f=812&t=3510)
