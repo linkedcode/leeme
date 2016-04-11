@@ -33,8 +33,8 @@ Al inicio de cada mes, se harán los cálculos de cuanto corresponde a cada soci
 * Transparencia: todos los precios deben ser públicos, de compra, venta e incluso sueldos.
 * Colaboración con otras cooperativas: se pueden hacer acuerdo para compras con productoras cooperativas.
 
+## Contacto
 
-
-
-
+* Facebook: [Cooperativa de Inquilinos](https://www.facebook.com/cooperativa.de.inquilinos/)
+* ¿Preguntas? Pueden usar este [foro](http://enforos.net/viewtopic.php?f=795&t=3600).
 

@@ -24,3 +24,4 @@ Teniendo tierras de sobra se podrá utilizar para otras actividades:
 ## Contacto
 
 * [Facebook](https://www.facebook.com/1pueblitoparami/)
+* ¿Preguntas? Pueden hacerlas en este [foro](http://enforos.net/viewtopic.php?f=790&t=3599).
