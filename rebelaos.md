@@ -1443,4 +1443,4 @@ www.rebelaos.net
 
 Notas del Editor
 
-Se adaptaron las URL para que sean cliqueables. Los textos "Mas info: www.url.com" se cambiaron por links en término relevante.
+Se adaptaron las URL para que sean cliqueables. Los textos "Mas info: www.url.com" se cambiaron por links en el término relevante.
