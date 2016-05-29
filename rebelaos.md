@@ -186,9 +186,9 @@ Un local vecinal, el local de un colectivo o asociación, un centro social, una 
 * Las viviendas móviles o caravanas autosuficientes son alternativas a los inmuebles como vivienda, permitiendo compaginar la vida nómada con la sedentaria, y profundizando a su vez en la autosuficiencia.
 * La repoblación, como la acción de recuperar la vida en el medio rural, mediante la ocupación de poblados y tierras abandonadas, u otras vías legalistas de acceso a inmuebles en desuso. En la próxima página se profundizará más sobre este tema.
 
-El colectivo SostreCivic y la Cooperativa Integral Catalana son impulsoras de este tipo de iniciativas y son ejemplos prácticos el de Cal Cases (comarca del Bages) o el de la colonia ecoindustrial postcapitalista de Calafou (comarca del Anoia) en Catalunya.
+El colectivo [SostreCivic](www.sostrecivic.org) y la Cooperativa Integral Catalana son impulsoras de este tipo de iniciativas y son ejemplos prácticos el de Cal Cases (comarca del Bages) o el de la colonia ecoindustrial postcapitalista de Calafou (comarca del Anoia) en Catalunya.
 
-En Suecia y Dinamarca, por ejemplo, las cooperativas de vivienda de cesión de uso están muy extendidas, siendo un porcentaje significativo del parque de viviendas de esos paises. Ver: www.sostrecivic.org
+En Suecia y Dinamarca, por ejemplo, las cooperativas de vivienda de cesión de uso están muy extendidas, siendo un porcentaje significativo del parque de viviendas de esos paises.
 
 > Una experiencia clave son las cooperativas de vivienda en cesión de uso, una herramienta para facilitar compras colectivas de inmuebles y garantizar la colectivización y su sentido comunitario.
 
@@ -258,12 +258,12 @@ Sin embargo la vuelta al campo y la integración de los proyectos llamados neorr
 
 Generando redes de cooperación y apoyo mutuo para tender puentes y facilitar los diversos procesos de revitalización del mundo rural. Esta coordinación es fundamental para frenar la segregación social y territorial entre los distintos colectivos sociales que comparten problemas de idéntica raíz:
 
-* La Plataforma Rural (http://www.nodo50.org/plataformarural), que desde 1996 trabaja por la construcción de la Soberanía Alimentaria en lo local y por un mundo rural vivo, aglutinando a organizaciones rurales y urbanas, de agricultores, de consumidores, ecologistas, ONGs y otras, y de la que emanan numerosos proyectos y movilizaciones estatales (contra los transgénicos o la PAC).
+* La [Plataforma Rural](http://www.nodo50.org/plataformarural), que desde 1996 trabaja por la construcción de la Soberanía Alimentaria en lo local y por un mundo rural vivo, aglutinando a organizaciones rurales y urbanas, de agricultores, de consumidores, ecologistas, ONGs y otras, y de la que emanan numerosos proyectos y movilizaciones estatales (contra los transgénicos o la PAC).
 * La Red Ibérica de Ecoaldeas, está tejiendo puentes entre asentamientos que desarrollan modelos de integración entre lo ecológico, lo social, lo cultural, lo económico, lo tecnológico, lo político y lo espiritual, facilitando el acercamiento de aquellas personas que desean apostar por otra forma de vida.
 * Las Ecoxarxes y la Cooperativa Integral Catalana promueven espacios de interacción para la relocalización de las relaciones humanas y económicas en el ámbito biorregional (Ver páginas centrales).
 * La Alianza por la Soberanía Alimentaria de los Pueblos, cuenta con redes locales en distintos territorios que agrupan a personas y organizaciones que tratan de sentar las bases de un modelo sostenible de agricultura y alimentación, de producción y el consumo local y justo.
 * Las iniciativas de mapeo de [pueblos abandonados] (www.pueblosabandonados.es)
-* Rurales enREDadxs, www.ruralesenredadxs.org es un grupo generado a partir de diferentes confluencias dentro del movimiento 15M, cuyas iniciativas se han unido con el objetivo de enlazar alternativas rurales y realizar encuentros que faciliten el acceso al campo. Por otro lado, se está generando el mapa de iniciativas sociales en el medio rural, como parte del Mapa de movimientos sociales, cuyo objetivo es coordinar iniciativas económicas y sociales solidarias.
+* [Rurales enREDadxs](www.ruralesenredadxs.org)  es un grupo generado a partir de diferentes confluencias dentro del movimiento 15M, cuyas iniciativas se han unido con el objetivo de enlazar alternativas rurales y realizar encuentros que faciliten el acceso al campo. Por otro lado, se está generando el mapa de iniciativas sociales en el medio rural, como parte del Mapa de movimientos sociales, cuyo objetivo es coordinar iniciativas económicas y sociales solidarias.
 * Además, están proliferando otras iniciativas como son los pueblos en transición y la coordinación de Asambleas del 15M en zonas rurales (como GredosRevolution o la Asamblea de la Sierra Norte de Madrid), permitiendo la articulación incipiente de iniciativas de economía social, mercados de trueque y bancos de tiempo.
 
 > El 2º Encuentro Rurales enREDadxs tendrá lugar en Capdesaso (Huesca) del 30 de Marzo al 8 Abril (el primero se celebró en Piedralaves -Ávila- en diciembre de 2011)
@@ -388,15 +388,15 @@ El grupo de salud de la Cooperativa Integral Catalana viene desarrollando esta p
 
 Es necesario seguir generando experiencias de autogestión sanitaria. Sería muy importante en este sentido que alguna de las luchas en defensa de los CAP desembocara también en la colectivización y autogestión con una visión holística y autogestionada de la salud. La difusión de la experiencia de las facilitadoras de salud y la creación de espacios de autogestión de la salud, es un reto fundamental para el desarrollo de la salud pública cooperativista.
 
-#### Mas info:
+#### Enlaces
 
 * ¡Cuídate compa! Manual para la autogestión de la salud, Eneko Landaburu. Ed. Txalaparta.
 * La sabiduría de Higea. El poder curativo del cuerpo, Antonio Palomar. Ed. Txalaparta.
 * La despensa de Hipócrates, Antonio Palomar. Ed. Txalaparta.
-* AureaSocial. http://www.aureasocial.org - 935535715
-* Salud holística autogestionada (SHA) http://sha.aureasocial.org
-* Grupo de trabajo de salud, de la CIC: www.cooperativaintegral.cat/salut
-* Sumendi. Asociación por la autogestión de la salud y el cambio social. http://www.sumendi.org
+* [AureaSocial](http://www.aureasocial.org) - 935535715
+* [Salud holística autogestionada (SHA)](http://sha.aureasocial.org)
+* [Grupo de trabajo de salud](www.cooperativaintegral.cat/salut), de la CIC
+* [Sumendi](http://www.sumendi.org). Asociación por la autogestión de la salud y el cambio social.
 
 ## Educación libre y comunitaria
 
@@ -440,17 +440,17 @@ Es nuestra responsabilidad trabajar para construir y desarrollar de manera conju
 
 #### Links
 
-* Xarxa Intercanvis de Coneixements: http://www.xic.cat
-* Xarxa d’Educació Lliure (XELL): http://www.educaciolliure.org/
-* Asociación Otra Escuela es posible: http://www.otraescuelaesposible.es/
-* Asociación Libre Educación: http://www.educacionlibre.org
-* Colectivo Educació Libre: http://www.escuelalibre.org/CEL/colectivo.htm
-* Coordinadora catalana por la Educación en Família: http://educarenfamilia.org
-* Clonlara school: http://www.clonlara.org/
-* Epysteme: http://www.epysteme.org
-* Xarxa Universitat Lliure: http://www.unilliure.org/
-* P2P University: http://p2pu.org
-* Universidad nómada: http://www.universidadnomada.net/
+* [Xarxa Intercanvis de Coneixements](http://www.xic.cat)
+* [Xarxa d’Educació Lliure (XELL)](http://www.educaciolliure.org/)
+* [Asociación Otra Escuela es posible](http://www.otraescuelaesposible.es/)
+* [Asociación Libre Educación](http://www.educacionlibre.org)
+* [Colectivo Educació Libre](http://www.escuelalibre.org/CEL/colectivo.htm)
+* [Coordinadora catalana por la Educación en Família](http://educarenfamilia.org)
+* [Clonlara school](http://www.clonlara.org/)
+* [Epysteme](http://www.epysteme.org)
+* [Xarxa Universitat Lliure](http://www.unilliure.org/)
+* [P2P University](http://p2pu.org)
+* [Universidad nómada](http://www.universidadnomada.net/)
 
 ## Conocimiento libre
 
@@ -488,11 +488,11 @@ Guifi.net es una red de telecomunicaciones libre, abierta y neutral, mayoritaria
 
 **[OpenBTS](http://openbts.sourceforge.net)** es un punto de acceso GSM (protocolo de telefonía móvil) que utiliza software y hardware libre para crear una infraestructura capaz de ofrecer servicios de telefonía móvil. Los datos son enviados a una centralita telefónica PBX Asterisk, conectada a una red de telecomunicaciones global como guifi.net, cerrando un interesante círculo para las telecomunicaciones libres.
 
-**Maquinaria libre de patentes**. Open Source Ecology (OSE) es una red de agricultores, ingenieros y colaboradores que han diseñado y creado el Global Village Construction Set (GVCS = Equipo de Construcción de la Aldea Global), una plataforma tecnológica de código abierto, bajo coste y alto rendimiento http://opensourceecology.org
+**Maquinaria libre de patentes**. [Open Source Ecology](http://opensourceecology.org) (OSE) es una red de agricultores, ingenieros y colaboradores que han diseñado y creado el Global Village Construction Set (GVCS = Equipo de Construcción de la Aldea Global), una plataforma tecnológica de código abierto, bajo coste y alto rendimiento
 
-Un **Fab Lab** (acrónimo del inglés Fabrication Laboratory) es un espacio de producción de objetos físicos a escala personal o local que agrupa máquinas controladas por ordenadores. Su particularidad reside en su tamaño y en su fuerte vinculación con la sociedad. http://fablabbcn.org
+Un **[Fab Lab](http://fablabbcn.org)** (acrónimo del inglés Fabrication Laboratory) es un espacio de producción de objetos físicos a escala personal o local que agrupa máquinas controladas por ordenadores. Su particularidad reside en su tamaño y en su fuerte vinculación con la sociedad.
 
-En general, hablamos también de la cultura libre como término para referirnos a cualquier expresión de tipo cultural que se basa en los principios del conocimiento libre. Por ejemplo, se considera música libre a aquella música que es de dominio público o que está protegida por una licencia libre promovida entre otras por la plataforma http://jamendo.com. Otras iniciativas que promueven el conocimiento libre son: http://archive.org, http://p2pfoundation.net, http://bookcamping.cc.
+En general, hablamos también de la cultura libre como término para referirnos a cualquier expresión de tipo cultural que se basa en los principios del conocimiento libre. Por ejemplo, se considera música libre a aquella música que es de dominio público o que está protegida por una licencia libre promovida entre otras por la plataforma [Jamendo](http://jamendo.com). Otras iniciativas que promueven el conocimiento libre son: [Archive.org](http://archive.org), [P2P Foundation](http://p2pfoundation.net), [BookCamping](http://bookcamping.cc).
 
 El conocimiento libre es una pieza clave para el desarrollo de la autogestión y las redes de autosuficiencia, ya que permite replicar las buenas prácticas a todos los ámbitos de la vida, sin estar sujetas a intereses mercantiles corporativos.
 
@@ -538,11 +538,11 @@ Es su Realismo Periodístico, realismo prefabricado por grupos de comunicación 
 
 #### Hacia adelante en red: liberando el espacio radioeléctrico y multiplicando medios alternativos
 
-Los medios alternativos de contrainformación ayudan a comunicar otras historias, otras realidades, otras sociedades y otros mundos posibles. Proyectos de prensa como (Diagonal)[http://www.diagonalperiodico.net] o (La Directa)[http://www.setmanaridirecta.info] de televisión comunitaria como (LaTele)[http://latele.cat/]. Y muchas radios libres que demuestran la capacidad de reproducción de nuestros propios medios al margen del Estado y de los Mercados, aunque estos se empeñen en la mercantilización de los derechos de información y comunicación a través de los medios comunitarios y el denominado Tercer Sector de la Comunicación -un espacio comunicativo alternativo al sector privado y al estatal-, seguiremos okupando y liberando el espacio radioeléctrico.
+Los medios alternativos de contrainformación ayudan a comunicar otras historias, otras realidades, otras sociedades y otros mundos posibles. Proyectos de prensa como [Diagonal](http://www.diagonalperiodico.net) o [La Directa](http://www.setmanaridirecta.info) de televisión comunitaria como [LaTele](http://latele.cat/). Y muchas radios libres que demuestran la capacidad de reproducción de nuestros propios medios al margen del Estado y de los Mercados, aunque estos se empeñen en la mercantilización de los derechos de información y comunicación a través de los medios comunitarios y el denominado Tercer Sector de la Comunicación -un espacio comunicativo alternativo al sector privado y al estatal-, seguiremos okupando y liberando el espacio radioeléctrico.
 
 Una vez hemos ganado las plazas, nos hemos reencontrado en las calles y en la red, es el momento de seguir abriendo y colectivizando nuevos espacios, medios y canales de comunicación. Frente a la privación y privatización de lo público, recuperemos nuestra soberanía y legitimidad del espacio radioeléctrico para crear ese espacio comunicativo Autónomo que comparte infraestructuras, recursos y contenidos.
 
-Estamos rehaciendo mapas de cada territorio con los múltiples puntos de comunicación libre existentes -sean de radio, televisión, prensa, Internet u otros- y las personas interesadas en participar. Estamos enlazando redes entre medios libres y comunitarios -como la (ReMC)[http://www.medioscomunitarios.net], creando nuevos medios y cooperativas del ámbito de la comunicación e inventando formas de cooperación y cocreación. Estamos poniendo las prácticas comunicativas libres al servicio de la rebelión y la autogestión.
+Estamos rehaciendo mapas de cada territorio con los múltiples puntos de comunicación libre existentes -sean de radio, televisión, prensa, Internet u otros- y las personas interesadas en participar. Estamos enlazando redes entre medios libres y comunitarios -como la [ReMC](http://www.medioscomunitarios.net), creando nuevos medios y cooperativas del ámbito de la comunicación e inventando formas de cooperación y cocreación. Estamos poniendo las prácticas comunicativas libres al servicio de la rebelión y la autogestión.
 
 Somos multitudes inteligentes en red, capaces de lo imposible. No dejemos de comunicar. Ya no hay nada que no podamos autogestionar. ¿Porque no organizamos además la autogestión de un medio de comunicación de masas? ¿Porque no convertirlos en herramientas compartidas por multitudes inteligentes?
 
@@ -713,9 +713,9 @@ región.
 * [Blog](http://ecorezodunantais.eklablog.com)
 * [Correo electrónico](mailto:ecorezonao@@@mailoo.org)
 
-En Asturias existe la Red de apoyo mútuo http://ramitasdelcampo.blogspot.com
+En Asturias existe la [Red de apoyo mútuo](http://ramitasdelcampo.blogspot.com)
 
-En Ciudad Real hay el colectivo de organización local http://colcr.wordpress.com, un embrión de lo que podría llegar a ser una cooperativa integral Manchega.
+En Ciudad Real hay el [colectivo de organización local](http://colcr.wordpress.com), un embrión de lo que podría llegar a ser una cooperativa integral Manchega.
 
 En la región de Murcia, los encuentros itinerantes de autogestión.
 
@@ -781,9 +781,9 @@ Las propuestas que puedes encontrar en esta publicación, como son las cooperati
 
 En relación al no-pago de deudas en general, la comunidad de morosos puede ser un espacio donde aclarar dudas concretas que os surjan. http://www.sincapitalismo.net/moroses
 
-En cuanto al no-pago de hipotecas, podeis encontrar recursos en la plataforma de (afectados por la hipoteca)[http://afectadosporlahipoteca.com/documentos-utiles/] (APH).
+En cuanto al no-pago de hipotecas, podeis encontrar recursos en la plataforma de [afectados por la hipoteca](http://afectadosporlahipoteca.com/documentos-utiles/) (APH).
 
-En cuanto a opciones de autoempleo para personas insolventes consultad la página 4. Para profundizar en el no pago y en la insolvencia desde el punto de vista de la desobediencia civil, miraos el (manual)[http://www.autogestionaos.net/manualdesobedienciaeconomica].
+En cuanto a opciones de autoempleo para personas insolventes consultad la página 4. Para profundizar en el no pago y en la insolvencia desde el punto de vista de la desobediencia civil, miraos el [manual](http://www.autogestionaos.net/manualdesobedienciaeconomica).
 
 #### La legalidad de las cooperativas integrales. Proteger la autogestión de la acción de la banca y el Estado
 
@@ -920,13 +920,13 @@ Algunos de los mecanismos que aportamos en esta página se asemejan a la picares
 
 Por autogestión fiscal entendemos todas aquellas vías de redistribución que hagan que la fiscalidad se quede en iniciativas que realmente redunden en beneficio de la gente. Es decir, que la parte del trabajo que cada persona es responsable de aportar a lo común, se pueda destinar a nuevos servicios públicos que realmente sitúen las necesidades básicas de las personas en la escala más alta de prioridades. Por ello se hace prioritario, y poco menos que imprescindible, generar dinámicas cada vez más masivas de desobediencia civil al despilfarro de nuestros recursos por parte del Estado, y el reaprovechamiento de ellos desde la autoorganización popular.
 
-Para impulsar este proceso, podéis incribiros en el siguiente (formulario)[http://derechoderebelion.net/adhesiones-de-lasasambleas], que tiene como objetivo dar de alta a las asambleas que apuesten por la autogestión fiscal.
+Para impulsar este proceso, podéis incribiros en el siguiente [formulario](http://derechoderebelion.net/adhesiones-de-lasasambleas), que tiene como objetivo dar de alta a las asambleas que apuesten por la autogestión fiscal.
 
 ###### Links
 
-* Manual de desobediencia económica. Allí encontraréis muchos más detalles de las informaciones que habéis leído en esta página. http://www.autogestionaos.net/manualdesobedienciaeconomica
-* Oficinas de desobediencia económica. Varias de ellas están en proceso de creación. Podéis encontrar un primer (listado)[http://www.autogestionaos.net/listaoficinasdesobedienciaeconomica]
-* (Manual de objeción fiscal a los presupuestos militares)[http://www.autogestionaos.net/manualobjeciónfiscal]
+* [Manual de desobediencia económica](http://www.autogestionaos.net/manualdesobedienciaeconomica). Allí encontraréis muchos más detalles de las informaciones que habéis leído en esta página.
+* Oficinas de desobediencia económica. Varias de ellas están en proceso de creación. Podéis encontrar un primer [listado](http://www.autogestionaos.net/listaoficinasdesobedienciaeconomica)
+* [Manual de objeción fiscal a los presupuestos militares](http://www.autogestionaos.net/manualobjeciónfiscal)
 
 ## Reflexiones sobre la asamblea
 
@@ -964,9 +964,7 @@ Ello exige reflexiones y prácticas personales y grupales que traten cuestiones 
 
 #### La democracia inclusiva, un modelo de sociedad basado en asambleas locales de ciudadanos
 
-Se trata de una propuesta para crear una nueva forma de organización social basada en la distribución igualitaria del poder en todos los ámbitos. Una democracia inclusiva constituye la forma más completa de democracia ya que asegura las condiciones institucionales necesarias para una democracia política, una democracia económica, una democracia en el ámbito social y una democracia ecológica. Así, un componente fundamental de la propuesta es la democracia política, que implica la creación de instituciones de democracia directa en el plano político, de tal manera que todas las decisiones importantes sean tomadas por asambleas demóticas (asambleas ciudadanas de la comunidad local) que se confederan a nivel regional, nacional y finalmente continental y global mediante delegados revocables, quienes implementan y coordinan los mandatos específicos de las asambleas demóticas.
-
-Más información en http://www.democraciainclusiva.org
+Se trata de una propuesta para crear una nueva forma de organización social basada en la distribución igualitaria del poder en todos los ámbitos. Una [democracia inclusiva](http://www.democraciainclusiva.org) constituye la forma más completa de democracia ya que asegura las condiciones institucionales necesarias para una democracia política, una democracia económica, una democracia en el ámbito social y una democracia ecológica. Así, un componente fundamental de la propuesta es la democracia política, que implica la creación de instituciones de democracia directa en el plano político, de tal manera que todas las decisiones importantes sean tomadas por asambleas demóticas (asambleas ciudadanas de la comunidad local) que se confederan a nivel regional, nacional y finalmente continental y global mediante delegados revocables, quienes implementan y coordinan los mandatos específicos de las asambleas demóticas.
 
 ## CASX
 
@@ -1032,9 +1030,9 @@ El primer proyecto que va a poner en marcha este fondo de ahorro va a ser la com
 
 En cuanto a cooperativas financieras éticas con intereses, encontramos realidades como la de Fiare y Coop57.
 
-Coop57, es una cooperativa de servicios financieros que se creó en Catalunya en los años 90 y que a partir del 2005 empezó a extenderse por todo el estado español. Actualmente existe también en Aragón, Madrid, Andalucia y Galicia. Recoge ahorro de personas y entidades, para destinarlo a proyectos cooperativos e iniciativas sociales. Es una realidad totalmente consolidada que actualmente dispone de depósitos por más de 9 millones de euros y financia más de un centenar de entidades al año. Su estructura se financia a través de los intereses que pagan los proyectos financiados. Más info http://www.coop57.coop
+[Coop57](http://www.coop57.coop), es una cooperativa de servicios financieros que se creó en Catalunya en los años 90 y que a partir del 2005 empezó a extenderse por todo el estado español. Actualmente existe también en Aragón, Madrid, Andalucia y Galicia. Recoge ahorro de personas y entidades, para destinarlo a proyectos cooperativos e iniciativas sociales. Es una realidad totalmente consolidada que actualmente dispone de depósitos por más de 9 millones de euros y financia más de un centenar de entidades al año. Su estructura se financia a través de los intereses que pagan los proyectos financiados.
 
-Fiare, es el proyecto de crear una cooperativa de crédito ética, es decir, una entidad financiera validada por los bancos centrales, y con capacidad de crear a largo plazo cuentas corrientes. En la actualidad y hasta que no se convierta en una cooperativa de crédito, el proyecto Fiare funciona ya a nivel estatal y ofrece cuentas vinculadas a la Banca populare ética italiana. Se trata de cuentas de ahorro sólo disponibles a entidades jurídicas; pueden operar pero tienen la limitación de que están en Italia. Con estos ahorros, se financian proyectos cooperativos de diversa índole; incluidas hipotecas para fincas cooperativas. Actualmente ya gestiona depósitos por valor de 26 millones de euros; y tiene un capital social de más de 2 millones. Más info http://www.proyectofiare.org
+[Fiare](http://www.proyectofiare.org), es el proyecto de crear una cooperativa de crédito ética, es decir, una entidad financiera validada por los bancos centrales, y con capacidad de crear a largo plazo cuentas corrientes. En la actualidad y hasta que no se convierta en una cooperativa de crédito, el proyecto Fiare funciona ya a nivel estatal y ofrece cuentas vinculadas a la Banca populare ética italiana. Se trata de cuentas de ahorro sólo disponibles a entidades jurídicas; pueden operar pero tienen la limitación de que están en Italia. Con estos ahorros, se financian proyectos cooperativos de diversa índole; incluidas hipotecas para fincas cooperativas. Actualmente ya gestiona depósitos por valor de 26 millones de euros; y tiene un capital social de más de 2 millones.
 
 Referentes de Banca Sin intereses. En el Estado español no existen propuestas de este tipo. Conocemos eso sí, algunas realidades importantes en el mundo como JAK (Suecia), o/ZB (Alemania), Netwerk Rentevrij (Holanda) o la banca islámica.
 
@@ -1147,15 +1145,13 @@ Mientras avanzan todas la opciones de las que disponemos gracias a los conocimie
 
 Es un proyecto cooperativo que tomó forma durante la primavera del 2010 cuando un grupo de personas vinculadas a la Universitat de Girona vieron la necesidad de reproducir experiencias existosas en otros países europeos para promover la participación ciudadana en un cambio del modelo energético.
 
-Durante el año 2011, Som Energia ha conseguido convertirse en una comercializadora de electricidad 100% renovable y ha iniciado los primeros proyectos propios de producción de energía. No hay excusa, ahora ya puedes abandonar la energía nuclear y las multinacionales del sector energético del sector eléctrico, ya que Som Energia puede hacer llegar luz renovable a tu hogar. De momento está operativo en el ámbito de la península ibérica dentro del estado español, en las islas se están organizando para que sea viable hacer la inversión inicial para poder cubrir también ese territorio.
-
-Más información en http://www.somenergia.coop
+Durante el año 2011, [Som Energia](http://www.somenergia.coop) ha conseguido convertirse en una comercializadora de electricidad 100% renovable y ha iniciado los primeros proyectos propios de producción de energía. No hay excusa, ahora ya puedes abandonar la energía nuclear y las multinacionales del sector energético del sector eléctrico, ya que Som Energia puede hacer llegar luz renovable a tu hogar. De momento está operativo en el ámbito de la península ibérica dentro del estado español, en las islas se están organizando para que sea viable hacer la inversión inicial para poder cubrir también ese territorio.
 
 ###### Colectivización del transporte público. Recuperemos para el pueblo lo que es del pueblo.
 
 Mirándolo en perspectiva, con el paso del tiempo, la privatización de las empresas que gestionan el transporte público ha provocado el encarecimiento progresivo de estos transportes de una manera totalmente desvinculada de las necesidades de las personas y de la situación económica actual. Esta tendencia ha hecho un punto de inflexión en 2012 y la respuesta social no se ha hecho esperar.
 
-Las campañas de desobediencia civil están ganando fuerza, especialmente, alrededor de los metros de Madrid y Barcelona. En Madrid, el movimiento "Yo no pago" hace convocatorias habituales de colarse colectivamente. En Barcelona, un grupo de personas ha creado un tipo de mutua de gente que se cuela en el metro y ponen un bote común para pagar las multas: http://www.memetro.net
+Las campañas de desobediencia civil están ganando fuerza, especialmente, alrededor de los metros de Madrid y Barcelona. En Madrid, el movimiento "Yo no pago" hace convocatorias habituales de colarse colectivamente. En Barcelona, un grupo de personas [ha creado un tipo de mutua](http://www.memetro.net) de gente que se cuela en el metro y ponen un bote común para pagar las multas.
 
 También en Barcelona, un grupo de Anonymous a compartido información en la red sobre cómo generar billetes de transporte como acción que, mientras presiona al empresariado del sector, aporta herramientas a la gente para autorganizarse para reducir los gastos de los viajes. Más información: buscar #Optmestre
 
@@ -1206,7 +1202,7 @@ Esto puede ser flexible, y pudiera ser que simplemente este hecho se diera duran
 
 Un grupo de afinidad activista debe generar recursos a través de la interacción en red, mediante donaciones vinculadas a la resistencia fiscal (ver la página 16), el crowdfunding (ver la página 23) u otros y promover la transformación social desde abajo.
 
-Esto significa desarrollar líneas de acción como las que se enumeran a continuación: analizar las posibilidades e impulsar la colectivización de bienes inmuebles para el desarrollo de iniciativas autogestionadas, aprovechar y sacar el máximo rendimiento a los inmuebles ya existentes, mantener y actualizar una base de datos de proyectos autogestionados, gestionar las necesidades telématicas de las asambleas, colectivos y grupos de trabajo, promover y dinamizar herramientas locales para ampliar las posibilidades de la autogestión a todos los niveles (salud, educación, alimentación, vivienda, transporte, etc...), apoyar la difusión hacia el exterior y la comunicación en red con otros territorios, ayudar a desarrollar otros grupos de afinidad, etc... 
+Esto significa desarrollar líneas de acción como las que se enumeran a continuación: analizar las posibilidades e impulsar la colectivización de bienes inmuebles para el desarrollo de iniciativas autogestionadas, aprovechar y sacar el máximo rendimiento a los inmuebles ya existentes, mantener y actualizar una base de datos de proyectos autogestionados, gestionar las necesidades telématicas de las asambleas, colectivos y grupos de trabajo, promover y dinamizar herramientas locales para ampliar las posibilidades de la autogestión a todos los niveles (salud, educación, alimentación, vivienda, transporte, etc...), apoyar la difusión hacia el exterior y la comunicación en red con otros territorios, ayudar a desarrollar otros grupos de afinidad, etc...
 
 En la práctica serían las asambleas y colectivos locales quienes promoverían el desarrollo de estos grupos, generando mecanismos para la captación de recursos y así financiar las necesidades básicas de los activistas comprometidos. La comunidad local se encargaría de cubrir las necesidades de vivienda, alimentación, movilidad y comunicación, así como otras necesidades referidas al bienestar de cada persona.
 
@@ -1253,7 +1249,7 @@ Tal y como hemos tratado en las páginas centrales, el modelo de cooperativas in
 
 #### Cómo empezar
 
-Debemos ser conscientes de que el trabajo que tenemos por delante requerirá un gran esfuerzo. Por eso, lo primero que necesitamos es un grupo de personas mínimamente afines que puedan comprometerse recíprocamente con todo el proceso. En la página anterior encontraréis algunas claves para ello. Cuando seáis al menos 3 o 4 personas con alta disponibilidad podréis empezar a dar los primeros pasos con ciertas garantías. Si no es así, tenéis también la opción de difundir y	convocar una reunión hasta que seáis suficientes para formar el grupo de trabajo inicial entre unas y otras. Llegados a este punto estaremos en condiciones de dar el primer paso:
+Debemos ser conscientes de que el trabajo que tenemos por delante requerirá un gran esfuerzo. Por eso, lo primero que necesitamos es un grupo de personas mínimamente afines que puedan comprometerse recíprocamente con todo el proceso. En la página anterior encontraréis algunas claves para ello. Cuando seáis al menos 3 o 4 personas con alta disponibilidad podréis empezar a dar los primeros pasos con ciertas garantías. Si no es así, tenéis también la opción de difundir y convocar una reunión hasta que seáis suficientes para formar el grupo de trabajo inicial entre unas y otras. Llegados a este punto estaremos en condiciones de dar el primer paso:
 
 1. Crear un grupo de trabajo para generar el núcleo de autogestión local. Intentad que en él participen personas que formen parte de la asamblea popular local, si es que ésta existe. Se puede empezar convocando una reunión e invitando	a colectivos afines.
 
@@ -1444,3 +1440,7 @@ Creative Commons
 # Copyleft
 
 www.rebelaos.net
+
+Notas del Editor
+
+Se adaptaron las URL para que sean cliqueables. Los textos "Mas info: www.url.com" se cambiaron por links en el término relevante.
