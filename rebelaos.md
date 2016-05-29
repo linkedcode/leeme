@@ -1,4 +1,4 @@
-!Rebelaos! ... y germinemos la semilla de la revolución integral
+# !Rebelaos! ... y germinemos la semilla de la revolución integral
 
 ¿Todavía crees que necesitamos al Estado? Descubre cómo podemos autogestionar nuestras vidas
 
