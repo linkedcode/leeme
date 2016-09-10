@@ -65,7 +65,8 @@ En este caso, se actuaría del siguiente modo: se ofrecería publicidad o link q
 ## Contacto
 
 - Correo electrónico: [info#linkedcode.com](mailto:info[arroba]linkedcode.com)
-- Chat/XMPP: xmpp@kosciuk.com.ar
+- Chat/XMPP: xmpp@linkedcode.com
+- Telegram: @kosciuk
 - [Diaspora*](https://joindiaspora.com/u/kosciuk)
 - [GNUSocial](https://lamatriz.org/kosciuk)
 
